@@ -22,11 +22,6 @@
                     <field name="NUM">2600</field>
                   </block>
                 </value>
-                <next>
-                  <block type="led_select" id="8" inline="true">
-                    <field name="ACTION">ON</field>
-                  </block>
-                </next>
               </block>
             </next>
           </block>
