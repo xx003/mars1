@@ -29,7 +29,7 @@
       </block>
     </statement>
     <next>
-      <block type="movement_stop" id="9"></block>
+      <block type="movement_stop" id="8"></block>
     </next>
   </block>
 </xml>
