@@ -16,14 +16,14 @@
               </block>
             </value>
             <next>
-              <block type="robot_delay" id="17" inline="true">
+              <block type="robot_delay" id="6" inline="true">
                 <value name="DELAY">
-                  <block type="math_number" id="24">
+                  <block type="math_number" id="7">
                     <field name="NUM">2600</field>
                   </block>
                 </value>
                 <next>
-                  <block type="led_select" id="33" inline="true">
+                  <block type="led_select" id="8" inline="true">
                     <field name="ACTION">ON</field>
                   </block>
                 </next>
@@ -34,7 +34,7 @@
       </block>
     </statement>
     <next>
-      <block type="movement_stop" id="6"></block>
+      <block type="movement_stop" id="9"></block>
     </next>
   </block>
 </xml>
